@@ -2926,6 +2926,7 @@ impl OpenCADStudio {
                     &block_to_world,
                 ) {
                     Ok(insert_handle) => {
+                        self.tabs[i].scene.populate_meshes_from_document();
                         self.tabs[i].dirty = true;
                         self.tabs[i].scene.deselect_all();
                         if !insert_handle.is_null() {
