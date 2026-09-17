@@ -1,0 +1,19 @@
+src/modules/insert/solid3d_cmds.rs
+  s_8a498d97f0bf26::t_092c9d8340c59a 475-477
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e9e32c38e15f3cbd61967ce994a4e50f6f37581a",
+  "prompts": {},
+  "sessions": {
+    "s_8a498d97f0bf26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "93885687-38ac-4ad5-a3c8-e75456337d14",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Steve King <12994437+steveking-gh@users.noreply.github.com>"
+    }
+  }
+}
