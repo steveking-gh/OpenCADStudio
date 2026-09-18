@@ -1,0 +1,19 @@
+src/app/command_driver.rs
+  s_8a498d97f0bf26::t_f1f92576ab9f07 2934
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "20d0b95f25729060b7d02c5c34eedb9e080b2a01",
+  "prompts": {},
+  "sessions": {
+    "s_8a498d97f0bf26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "93885687-38ac-4ad5-a3c8-e75456337d14",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Steve King <12994437+steveking-gh@users.noreply.github.com>"
+    }
+  }
+}
